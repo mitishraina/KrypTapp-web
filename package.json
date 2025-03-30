@@ -1,7 +1,7 @@
 {
   "name": "wave-app",
   "version": "0.0.0",
-  "homepage": "https://mitishraina.github.io/KrypTapp-web",
+  "homepage": "https://mitishraina.github.io/KrypTapp-web/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
