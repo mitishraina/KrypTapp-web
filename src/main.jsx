@@ -11,7 +11,7 @@ ReactDOM.render(
     <BrowserRouter>
       <Routes>
         <Route path='/KrypTapp-web/' element={<App />}></Route>
-        <Route path='/stock' element={<Stock />}></Route>
+        <Route path='/KrypTapp-web//stock' element={<Stock />}></Route>
       </Routes>
     </BrowserRouter>
   </TransactionsProvider>,
